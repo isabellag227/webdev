@@ -16,17 +16,19 @@ with a class of "info" */
 color:white
 }
 /* Challenge 7: Add a border of 2px solid red for all elements with a class of "highlight" */
-
+.highlight{
+  text-box: 2px red;
+}
 /* Challenge 8: Align the text in the center and drop a shadow on the text of 2px 2px yellow  for 
 all elements with a class of "special"
 */
 .special{
-  
+  text-align: center 
+    
 }
 
 /* Challenge Bonus: Create a CSS rule for a class named "shadow".  
 Apply a shadow to the box around the elements that is 2px 2px  gray. */ 
 .shadows{
-  
-  text-shadow 2px 2px gray;
+   box-shadow:2px 2px gray;
  }
