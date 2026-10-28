@@ -1,6 +1,8 @@
   
 /* Challenge 4: Change the radius of the borders of all images to 20px */
-
+img{
+    
+}
 /* Challenge 5: Change the width of the image with an id of "banner" to 95% */
 
 /* Challenge 6: For the HTML element with an id of "bannerSeparator" change the,
@@ -19,6 +21,6 @@
                 1) the size of the font to 24pt, 
                 2) family of font to "Arial", 
                 3) color of the background to rgb(0,0,255)  
-                4) color of the text to white for the  white
+                4) color of the text to white 
 */
 
